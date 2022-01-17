@@ -30,7 +30,8 @@ href="https://twitter.com/Muniro2">Twitter</a> </li>
 
 ---
 
-***I am available for work. Please reach out to me through my LinkedIn for any questions that you may have or any available and positions that you are hiring for. Thank you.*** 
+***I am available for work. Please reach out to me through my LinkedIn for any questions that you may have or any available positions that you are hiring for. 
+  Thank you.*** 
 
 
 
