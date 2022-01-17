@@ -13,6 +13,12 @@ I’m 21 years old from London, currently in my final year at university studyin
 - 🔑
 - m
 
+---
+## Find me on these pages too:
+<ul>
+<li><g-emoji class="g-emoji" alis="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> <a
+                                                                                                                                               href="https://twitter.com/Muniro2">My Twitter page</a> </li>                                                                                                                                                 
+
 
 
 
