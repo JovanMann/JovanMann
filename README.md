@@ -6,4 +6,3 @@ I am available for work. Please reach out to me through my LinkedIn for any ques
 
 
 
-github-readme-stats.vercel.app/api?username=JovanMann&&show 
