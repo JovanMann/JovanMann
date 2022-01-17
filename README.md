@@ -4,5 +4,4 @@ I’m 21 years old from London, currently in my final year at university studyin
 
 I am available for work. Please reach out to me through my LinkedIn for any questions that you may have or any available and relevant positions that you are hiring for. Thank you. 
 
-<img src"https://github-readme-stats.vercel.app/api?username=JovanMann&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+https://github-readme-stats.vercel.app/api?username=JovanMann&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
