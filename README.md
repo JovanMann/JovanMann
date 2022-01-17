@@ -6,4 +6,4 @@ I am available for work. Please reach out to me through my LinkedIn for any ques
 
 
 
-<img srce "https://github-readme-stats.vercel.app/api?username=JovanMann&&show icons=true&title color=ffffff&icon color=bb2acf&text color=daf7dc&bg color=151515">
+https://github-readme-stats.vercel.app/api?username=JovanMann&&show 
