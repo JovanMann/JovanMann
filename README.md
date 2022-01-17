@@ -9,6 +9,11 @@ I’m 21 years old from London, currently in my final year at university studyin
 ---
 
 
+- 👨‍💻 I am currently learning Apache Hadoop and MongoDB.
+- 🔑
+- m
+
+
 
 
 
