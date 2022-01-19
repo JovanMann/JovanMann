@@ -4,7 +4,9 @@
 ### Hi 👋, I'm Jovan!
 ---
 
-I’m 21 years old from London, currently in my final year at university studying BSc Mathematics & Economics. My journey into Data Analytics started early 2020 teaching myself how to code and create queries on SQL, Python, and other programming languages. Since then, I have completed various projects displaying my willingness to continuously learn and develop. My other interests outside of data involve sports and travelling.   
+I’m 21 years old from London, currently in my final year at university studying BSc Mathematics & Economics. My journey into Data Analytics started early 2020 teaching myself how to code and create queries on SQL, Python, and other programming languages. Since then, I have completed various projects & internship displaying my willingness to continuously learn and develop. My other interests outside of data involve sports and travelling.
+
+🔑 I am particularly keen on joining a startup team which will allow me to develop my understanding of various business functions and ways in which data can shape how a business operates in its early stages. 
 
 ---
 
