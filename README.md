@@ -11,7 +11,8 @@ I’m 21 years old from London, currently in my final year at university studyin
 
 - 👨‍💻 I am currently learning Apache Hadoop and MongoDB.
 - ⚽️ Sports Analytics 
-- 🦓 Interests: Football, Travelling, Gym 
+- 🦓 Interests: Football, Travelling, Gym.
+- Improve user experience and data driven decision making.
 
 ---
 ## Find Me On These Pages Too:
