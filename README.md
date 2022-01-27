@@ -21,7 +21,11 @@ I’m 21 years old from London, currently in my final year at university studyin
 <ul>
 <li><g-emoji class="g-emoji" alis="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> <a
 href="https://www.instagram.com/jm9.codes/">Instagram</a> </li>                                                                                                                                                                                                                                                                                                                                                                                                                                       
-<li><g-emoji class="g-emoji" alis="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji><a href="https://www.linkedin.com/in/jovan-mann/">LinkedIn</a> </li>
+<li><g-emoji class="g-emoji" alis="collaboration" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">🫂</g-emoji><a href="https://www.linkedin.com/in/jovan-mann/">LinkedIn</a> </li>
+  
+  
+<li><g-emoji class="g-emoji" alis="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji><a href="https://public.tableau.com/app/profile/jovanmann">Tableau Public</a> </li>  
+
 </ul>
 
 ---
