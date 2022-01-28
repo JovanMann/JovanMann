@@ -37,8 +37,7 @@ href="https://www.instagram.com/jm9.codes/">Instagram</a> </li>
 
 ---
 
-***I am available for work. Please reach out to me through my LinkedIn for any questions that you may have or any available positions that you are hiring for. 
-  Thank you.*** 
+ 
 
 
 
