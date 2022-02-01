@@ -1,7 +1,7 @@
 💫 Welcome To My Github Page 💫
 
 
-### Hi 👋, I'm Jova
+### Hi 👋, I'm Jovan
 ---
 
 I’m 21 years old living in London, currently in my final year at university studying BSc Mathematics & Economics. My journey into Data Analytics started early 2020 teaching myself how to code and creating queries on SQL, Python, and other programming languages. Since then, I have completed various projects & internships displaying my willingness to continuously learn and develop. My other interests outside of data involve sports and travelling.
