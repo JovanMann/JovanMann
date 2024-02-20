@@ -9,19 +9,13 @@
 
 
 - 👨‍💻 I am currently learning Apache Hadoop and MongoDB.
-- ⚽️ Sports & Business Analytics 
-- 🦓 Interests: Football, Travelling, Gym.
-- 📈 Improving user experience and data driven decision making.
+- ⚽️ Sports & Economics [Monetary Economics, Game Theory, Environmental Economics] 
+- 🦓 Interests: Football, Travelling,.
 
 ---
 ## Find Me On These Pages Too:
 <ul>
-<li><g-emoji class="g-emoji" alis="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> <a
-href="https://www.instagram.com/jm9.codes/">Instagram</a> </li>                                                                                                                                                                                                                                                                                                                                                                                                                                       
-<li><g-emoji class="g-emoji" alis="collaboration" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">🫂</g-emoji><a href="https://www.linkedin.com/in/jovan-mann/">LinkedIn</a> </li>
-  
-  
-<li><g-emoji class="g-emoji" alis="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji><a href="https://public.tableau.com/app/profile/jovanmann">Tableau Public</a> </li>  
+                                                                                                                                                                                                                                                                                                                                              <li><g-emoji class="g-emoji" alis="collaboration" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">🫂</g-emoji><a href="https://www.linkedin.com/in/jovan-mann/">LinkedIn</a> </li>
 
 </ul>
 
