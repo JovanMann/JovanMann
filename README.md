@@ -13,7 +13,7 @@
 - 🦓 Interests: Football, Travelling,.
 
 ---
-## Find Me On These Pages Too:
+## Find Me On LinkedIn:
 <ul>
                                                                                                                                                                                                                                                                                                                                               <li><g-emoji class="g-emoji" alis="collaboration" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">🫂</g-emoji><a href="https://www.linkedin.com/in/jovan-mann/">LinkedIn</a> </li>
 
